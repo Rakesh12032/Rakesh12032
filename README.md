@@ -10,9 +10,14 @@
 ```
 
 ### `> whoami`
-**Security Researcher | Bug Bounty Hunter** 🎯
+**Rakesh Kumar** 🎯
+**Security Researcher | Bug Bounty Hunter | Code Auditor**
 
-*Hunting vulnerabilities, one commit at a time.*
+*I break code for a living — so others don't have to break it for evil.* 💀
+
+*From India, hunting vulnerabilities across the world's biggest codebases. Every bug I find makes the internet a little safer. Specializing in SDK security, API testing, and finding what others miss.*
+
+📍 **India** | 🎯 **HackerOne:** @rakesh_18052 | 📧 **Open to security research collabs**
 
 </div>
 
