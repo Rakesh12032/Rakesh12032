@@ -10,7 +10,7 @@
 ```
 
 ### `> whoami`
-**Rakesh Kumar** 🎯
+**Er. Rakesh** 🎯
 **Security Researcher | Bug Bounty Hunter | Code Auditor**
 
 *I break code for a living — so others don't have to break it for evil.* 💀
